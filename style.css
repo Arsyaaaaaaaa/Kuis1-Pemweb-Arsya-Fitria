@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(234, 184, 228);
+}
+.container{
+    width:750px;
+    margin:40px auto;
+    background-color: rgb(248, 251, 251);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:0px 4px 10px rgba(0, 0, 0, 2);
+}
+h1{
+    margin-bottom:15px;
+}
+input{
+    padding:6px;
+    border:1 px solid #ccc;
+    border-radius:4px;
+}
+button:hover{
+    background-color: rgb(207, 180, 203);
+}
+table{
+    width:100%;
+    border-collapse: collapse;
+    margin: top 15px;
+}
